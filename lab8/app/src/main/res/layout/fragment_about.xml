@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="About the Game"
+        android:id="@+id/textView2"
+        android:gravity="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="154dp"
+        android:layout_height="307dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="\n\n本程式由 \n\n1033357 林宗業 \n\n1021454 季憶琦\n\n製作"
+        android:id="@+id/textView"
+        android:layout_gravity="center"
+        android:textSize="18sp" />
+
+</FrameLayout>

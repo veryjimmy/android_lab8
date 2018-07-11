@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="305dp"
+        android:layout_height="321dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Help"
+        android:id="@+id/textView3"
+        android:layout_gravity="center"
+        android:textSize="35sp" />
+
+    <TextView
+        android:layout_width="309dp"
+        android:layout_height="283dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="\n這是一款單人的電腦遊戲。遊戲目標是找出所有沒有地雷的方格，完成遊戲；要是按了有地雷的方格，遊戲失敗。(Wiki) \n\n下一版本：\n遊戲將計算完成時間。"
+        android:id="@+id/textView4"
+        android:layout_gravity="center"
+        android:textSize="25sp" />
+
+</FrameLayout>
