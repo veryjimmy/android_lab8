@@ -5,12 +5,12 @@
 
 垂直畫面與水平畫面分別如下圖所示：
 
-** 垂直畫面
+## 垂直畫面
 ![image](https://github.com/veryjimmy/android_lab8/blob/master/ex1.png)
 
 ![image](https://github.com/veryjimmy/android_lab8/blob/master/ex2.png)
 
 ![image](https://github.com/veryjimmy/android_lab8/blob/master/ex3.png)
 <br/>
-** 水平畫面
+## 水平畫面
 ![image](https://github.com/veryjimmy/android_lab8/blob/master/ex4.png)
